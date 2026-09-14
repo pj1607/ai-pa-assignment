@@ -99,7 +99,7 @@ ai-purchasing-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone (https://github.com/pj1607/ai-pa-assignment)
+git clone https://github.com/pj1607/ai-pa-assignment
 cd ai-pa-assignment
 ```
 
