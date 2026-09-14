@@ -99,8 +99,8 @@ ai-purchasing-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd ai-purchasing-agent
+git clone (https://github.com/pj1607/ai-pa-assignment)
+cd ai-pa-assignment
 ```
 
 ### 2. Start MongoDB
