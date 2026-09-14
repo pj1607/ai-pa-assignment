@@ -67,6 +67,7 @@ The AI agent cannot directly create purchase orders or modify the database.
 - Vite
 - Axios
 - CSS
+- MUI
 
 ### Backend
 
