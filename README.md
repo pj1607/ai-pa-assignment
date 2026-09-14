@@ -80,7 +80,7 @@ The AI agent cannot directly create purchase orders or modify the database.
 
 ```text
 ai-purchasing-agent/
-├── client/
+├── frontend/
 └── server/
     ├── src/
     │   ├── agent/
@@ -90,7 +90,6 @@ ai-purchasing-agent/
     │   ├── services/
     │   ├── seed/
     │   └── app.js
-    ├── .env.example
     └── package.json
 ```
 
@@ -144,7 +143,7 @@ http://localhost:5000
 Open another terminal:
 
 ```bash
-cd client
+cd frontend
 npm install
 npm run dev
 ```
